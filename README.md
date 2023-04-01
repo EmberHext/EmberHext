@@ -4,7 +4,9 @@
 ## Languages and Technologies ##
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=rust,ts,nextjs,react,express,nodejs,tailwind,php,vue,solidjs,svelte,prisma,actix,haskell,cpp,docker,linux,neovim,vscode,unreal" alt="Rust, TypeScript, Nextjs, React, Express, Node.js, Tailwind, PHP, Vue, Solid.js, Svelte, Prisma, Actix, Haskell, C++, Docker, Linux, NeoVim, VSCode, Unreal" />
+    <img src="https://skillicons.dev/icons?i=rust,ts,nextjs,react,express,nodejs,tailwind,php,vue,solidjs,svelte,prisma,actix,haskell,cpp" alt="Rust, TypeScript, Nextjs, React, Express, Node.js, Tailwind, PHP, Vue, Solid.js, Svelte, Prisma, Actix, Haskell, C++" />
+    <img src="docker,linux,neovim,vscode,unreal" alt="Docker, Linux, NeoVim, VSCode, Unreal" />
+    
   </a>
 </p>
 
