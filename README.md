@@ -1,0 +1,15 @@
+<h1 align="center">Hiya, I'm Ember</h1>
+<p align="center">I do web and app development. I'm also interested in cybersecurity and reverse engineering.</p>
+
+## Languages and Technologies ##
+<p align="center">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=rust,ts,nextjs,react,express,nodejs,tailwind,vue,solidjs,svelte,prisma,actix,haskell,cpp,docker,linux" alt="TypeScript, Node.js, Deno, Rust, React, Solid, Svelte, Vue, Next.js, Tailwind, Prisma, Docker, Linux" />
+  </a>
+</p>
+
+## Stats ##
+<p align="center"><a href="#">
+    <img src="https://github-readme-stats.vercel.app/api?username=EmberHext&theme=aura_dark&show_icons=true&hide_rank=true&custom_title=Stats&count_private=true&hide_border=true&hide=issues&line_height=24&bg_color=0d1117" alt="Github stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmberHext&layout=compact&theme=aura_dark&count_private=true&hide_border=true&bg_color=0d1117" alt="Top Langs">
+</a></p>
