@@ -1,10 +1,10 @@
-<h1 align="center">Hiya, I'm Ember</h1>
-<p align="center">I do web and app development. I'm also interested in cybersecurity and reverse engineering.</p>
+<h1 align="center">Hiya, I'm Ember.</h1>
+<p align="center">I do web and app development. I'm also interested in cybersecurity and reverse engineering, and do game development as a hobby.</p>
 
 ## Languages and Technologies ##
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=rust,ts,nextjs,react,express,nodejs,tailwind,vue,solidjs,svelte,prisma,actix,haskell,cpp,docker,linux" alt="TypeScript, Node.js, Deno, Rust, React, Solid, Svelte, Vue, Next.js, Tailwind, Prisma, Docker, Linux" />
+    <img src="https://skillicons.dev/icons?i=rust,ts,nextjs,react,express,nodejs,tailwind,php,vue,solidjs,svelte,prisma,actix,haskell,cpp,docker,linux,neovim,vscode,unreal" alt="Rust, TypeScript, Nextjs, React, Express, Node.js, Tailwind, PHP, Vue, Solid.js, Svelte, Prisma, Actix, Haskell, C++, Docker, Linux, NeoVim, VSCode, Unreal" />
   </a>
 </p>
 
