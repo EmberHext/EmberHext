@@ -4,8 +4,8 @@
 <h2 align="center">Languages and Technologies</h2>
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=rust,ts,nextjs,react,express,nodejs,tailwind,php,vue,solidjs,svelte,prisma,actix,haskell,cpp" alt="Rust, TypeScript, Nextjs, React, Express, Node.js, Tailwind, PHP, Vue, Solid.js, Svelte, Prisma, Actix, Haskell, C++" />
-    <img src="https://skillicons.dev/icons?i=docker,linux,neovim,vscode,unreal" alt="Docker, Linux, NeoVim, VSCode, Unreal" />
+    <img src="https://skillicons.dev/icons?i=rust,ts,nextjs,react,express,nodejs,tailwind,vue,solidjs,svelte,postgres,mysql,mongodb,prisma,actix" alt="Rust, TypeScript, Nextjs, React, Express, Node.js, Tailwind, Vue, Solid.js, Svelte, Postgres, MySQL, MongoDB, Prisma, Actix" />
+    <img src="https://skillicons.dev/icons?i=php,haskell,cpp,docker,linux,neovim,vscode,unreal" alt="PHP, Haskell, C++, Docker, Linux, NeoVim, VSCode, Unreal" />
     
   </a>
 </p>
