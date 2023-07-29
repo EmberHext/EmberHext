@@ -1,5 +1,5 @@
 <h1 align="center">Hiya, I'm Ember.</h1>
-<p align="center">I do web and app development. I'm also interested in cybersecurity and reverse engineering, and do game development as a hobby.</p>
+<p align="center">I'm interested in embedded development, video, cybersecurity and reverse engineering, and do game development as a hobby.</p>
 
 <!--<h2 align="center">Languages and Technologies</h2>
 <p align="center">
