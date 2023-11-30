@@ -1,14 +1,14 @@
 <h1 align="center">Hiya, I'm Ember.</h1>
 <p align="center">I'm interested in embedded development, cybersecurity and reverse engineering. I also know a decent amount about web development, and do game development as a hobby.</p>
 
-<!--<h2 align="center">Languages and Technologies</h2>
+<h2 align="center">Languages and Technologies</h2>
 <p align="center">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=rust,cpp,ts,nextjs,react,express,nodejs,tailwind,vue,solidjs,svelte,postgres,mysql,prisma,actix" alt="Rust, C++, TypeScript, Nextjs, React, Express, Node.js, Tailwind, Vue, Solid.js, Svelte, Postgres, MySQL, Prisma, Actix" />
     <img src="https://skillicons.dev/icons?i=mongodb,php,haskell,docker,linux,neovim,vscode,unreal" alt="MongoDB, PHP, Haskell, Docker, Linux, NeoVim, VSCode, Unreal" />
     
   </a>
-</p>-->
+</p>
 
 <h2 align="center">Stats</h2>
 <p align="center"><a href="#">
